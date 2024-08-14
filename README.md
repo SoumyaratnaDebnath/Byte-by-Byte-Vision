@@ -80,3 +80,4 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Additional References
   1. [Tom Yeh | AI by Hand](https://x.com/ProfTomYeh)
   2. [AI But Simple](https://www.aibutsimple.com/)
+  3. Understand Convolution : [Better Explined](https://betterexplained.com/articles/intuitive-convolution/), [Mathworks](https://in.mathworks.com/discovery/convolution.html)
