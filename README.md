@@ -82,3 +82,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   2. [AI But Simple](https://www.aibutsimple.com/)
   3. Understand Convolution : [Better Explined](https://betterexplained.com/articles/intuitive-convolution/), [Mathworks](https://in.mathworks.com/discovery/convolution.html)
   4. [Explained Visually](https://setosa.io/ev/)
+
+### Interview PrepMat
+  1. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
+  2. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
