@@ -86,3 +86,4 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Interview PrepMat
   1. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
   2. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
+  3. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
