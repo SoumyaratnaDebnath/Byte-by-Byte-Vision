@@ -90,4 +90,4 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 
 ### Data Structures and Algorithms
   1. [Algorithms Handwritten Notes](https://www.selfstudys.com/gate/computer-science-engineering/online/exam/algorithm)
-  2. [Dynamic Programming](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
+  2. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
