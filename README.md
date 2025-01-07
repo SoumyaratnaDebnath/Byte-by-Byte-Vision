@@ -87,3 +87,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   1. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
   2. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
   3. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
+
+### Data Structures and Algorithms
+  1. [Algorithms Handwritten Notes](https://www.selfstudys.com/gate/computer-science-engineering/online/exam/algorithm)
+  2. [Dynamic Programming](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
