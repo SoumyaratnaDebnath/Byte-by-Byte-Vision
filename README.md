@@ -89,6 +89,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   3. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
 
 ### Data Structures and Algorithms
-  1. [Algorithms Handwritten Notes](https://www.selfstudys.com/gate/computer-science-engineering/online/exam/algorithm)
-  2. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
-  3. [Algorithms | Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=rVxDiKXBtaSZMLHO)
+  1. [Algorithms | Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=rVxDiKXBtaSZMLHO)
+  2. [Algorithms Handwritten Notes](https://www.selfstudys.com/gate/computer-science-engineering/online/exam/algorithm)
+  3. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
+
