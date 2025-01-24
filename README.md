@@ -83,14 +83,11 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   3. Understand Convolution : [Better Explined](https://betterexplained.com/articles/intuitive-convolution/), [Mathworks](https://in.mathworks.com/discovery/convolution.html)
   4. [Explained Visually](https://setosa.io/ev/)
   5. [ExplainingAI](https://youtube.com/@explaining-ai?si=ZJCs0AUEZQcFQn2t)
-
-### Interview PrepMat
-  1. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
-  2. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
-  3. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
-
-### Data Structures and Algorithms
-  1. [Algorithms | Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=rVxDiKXBtaSZMLHO)
-  2. [Algorithms Handwritten Notes](https://www.selfstudys.com/gate/computer-science-engineering/online/exam/algorithm)
-  3. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
+  8. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
+  9. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
+  10. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
+  11. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
+  12. [Read Medium Articles Free](https://freedium.cfd/)
+  13. [Conference Deadlines](https://ccfddl.com/)
+  14. [AutoGluon Quick Prototyping](https://auto.gluon.ai/stable/index.html)
 
