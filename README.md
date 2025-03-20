@@ -77,6 +77,9 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   3. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
   4. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
 
+### Resources for Staying Updated
+  1. [Automatically Update CV Papers Daily using Github Actions](https://github.com/Vincentqyw/cv-arxiv-daily/tree/main)
+
 ### Additional References
   1. [Tom Yeh | AI by Hand](https://x.com/ProfTomYeh)
   2. [AI But Simple](https://www.aibutsimple.com/)
