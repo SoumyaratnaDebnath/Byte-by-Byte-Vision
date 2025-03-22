@@ -9,6 +9,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   4. [DeepLearning - Mitesh Khapra](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU&si=A4XVBP1vMublbJkU)
   5. [Neural Networks by 3-Blue-1-Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=83Z97JTe2OiClvk7)
   6. Understanding Deep Learning by Simon J.D. Prince [Book](https://udlbook.github.io/udlbook/) and [YouTube Playlist](https://youtube.com/playlist?list=PLmp4AHm0u1g0AdLp-LPo5lCCf-3ZW_rNq&si=dDLQxMFX20YVpmGq)
+  7. [Learn Computer Graphics](https://www.scratchapixel.com/index.html)
 
 ### Mathematics 
   1. [Basic probability: Joint, marginal and conditional probability | Independence](https://youtu.be/SrEmzdOT65s?si=v-tQQ4b2aJe5KcbW)
