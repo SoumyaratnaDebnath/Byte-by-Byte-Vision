@@ -4,3 +4,4 @@
 4. [Essential Machine Learning and AI Concepts Animated](https://youtu.be/PcbuKRNtCUc?si=NeaSJt_VVAkZ49XL)
 5. [Generative Modelling](https://youtube.com/playlist?list=PLaw_1rrGFgySRIL-vz2CegKre7Qhy0Lee&si=xnv4FPG2auIb_rIp)
 6. [10 Best Machine Learning Resources](https://www.linkedin.com/feed/update/urn:li:activity:7326817280930000896/?utm_source=share&utm_medium=member_android&rcm=ACoAADKJzyQBQvpll5NPgJu-XxE2J84WJ2sjjdc)
+7. [Introduction to Prompt Engineering - OpenAI](https://academy.openai.com/home/videos/introduction-to-prompt-engineering-2025-02-13)
