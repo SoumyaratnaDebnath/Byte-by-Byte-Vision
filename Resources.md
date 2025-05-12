@@ -37,3 +37,8 @@ Lecture videos for an intro course on Discrete Differential Geometry at Carnegie
 **Linear Algebra and Random Processes - Mitesh M. Khapra** `Linear Algebra` <br>
 [Link to Course](https://www.cse.iitm.ac.in/~miteshk/CS6015.html)
 Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT Madras.
+
+---
+
+**The Essence of Linear Algebra - 3Blue1Brown**
+[Link to Course](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=fMUzQKh4MvYjdDl6) A playlist on understanding Linear Algebra geometrically.
