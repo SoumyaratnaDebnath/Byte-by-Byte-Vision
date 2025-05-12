@@ -40,5 +40,5 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 
 ---
 
-**The Essence of Linear Algebra - 3Blue1Brown**
+**The Essence of Linear Algebra - 3Blue1Brown** `Linear Algebra` <br>
 [Link to Course](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=fMUzQKh4MvYjdDl6) A playlist on understanding Linear Algebra geometrically.
