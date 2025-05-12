@@ -22,7 +22,8 @@ An introductory course to learn the fundamentals of generative modelling. The co
 ### `Computer Graphics`
 #### Introduction to Computer Graphics - Justin Solomon [MIT]
 [Link to Cource](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh&si=qyVXe-yV0I7w5ZxL)
+Lecture videos for an intro course on Introduction to Computer Graphics at MIT.
 
 #### Discrete Differential Geometry - Keenan Krane [CMU]
 [Link to Course](https://youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&si=9U47liNYeFIvBF17)
-Lecture videos for an intro course on Discrete Differential Geometry at Carnegie Mellon University (15-458).
+Lecture videos for an intro course on Discrete Differential Geometry at Carnegie Mellon University.
