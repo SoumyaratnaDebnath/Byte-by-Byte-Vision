@@ -14,17 +14,25 @@ In this free course, you will:
 	🗺 Explore conditional generation and guidance
 	🧑‍🔬 Create your own custom diffusion model pipelines
 
+---
+
 **From VAEs to Diffusion Models** `Diffusion Models` <br>
 [Link to Course](https://youtube.com/playlist?list=PLlZRoE1e4FG7Ax89tyiPpBRByN6QR-TZV&si=334HbVJhzOKivekY)
 An introductory course to learn the fundamentals of generative modelling. The course will start from basics of EM algorithm, and will go all the way till Diffusion Models. The underlying idea is to connect seemingly disconnected topics like VAEs and Diffusion Models through a unified theory.
+
+---
 
 **Introduction to Computer Graphics - Justin Solomon** `Computer Graphics` <br>
 [Link to Cource](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh&si=qyVXe-yV0I7w5ZxL)
 Lecture videos for an intro course on Introduction to Computer Graphics at MIT.
 
+---
+
 **Discrete Differential Geometry - Keenan Krane** `Computer Graphics` <br>
 [Link to Course](https://youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&si=9U47liNYeFIvBF17)
 Lecture videos for an intro course on Discrete Differential Geometry at Carnegie Mellon University.
+
+---
 
 **Linear Algebra and Random Processes - Mitesh M. Khapra** `Linear Algebra` <br>
 [Link to Course](https://www.cse.iitm.ac.in/~miteshk/CS6015.html)
