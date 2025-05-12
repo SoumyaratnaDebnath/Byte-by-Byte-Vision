@@ -16,3 +16,11 @@ In this free course, you will:
 #### From VAEs to Diffusion Models
 [Link to Course](https://youtube.com/playlist?list=PLlZRoE1e4FG7Ax89tyiPpBRByN6QR-TZV&si=334HbVJhzOKivekY)
 An introductory course to learn the fundamentals of generative modelling. The course will start from basics of EM algorithm, and will go all the way till Diffusion Models. The underlying idea is to connect seemingly disconnected topics like VAEs and Diffusion Models through a unified theory.
+
+### `Computer Graphics`
+#### Introduction to Computer Graphics
+[Link to Cource](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh&si=qyVXe-yV0I7w5ZxL)
+
+#### Discrete Differential Geometry
+[Link to Course](https://youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&si=9U47liNYeFIvBF17)
+Lecture videos for an intro course on Discrete Differential Geometry at Carnegie Mellon University (15-458).
