@@ -98,4 +98,5 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   3. [What is RNN and LSTM?](https://youtu.be/b61DPVFX03I?si=Q5JTsWACjI1YK5Re)
   4. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
   5. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
+  6. [KL Divergence](https://youtu.be/q0AkK8aYbLY?si=Wb7BJWFk6l5zW_67)
 
