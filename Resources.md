@@ -1,4 +1,4 @@
-#### Introduction to Flow Matching and Diffusion Models 
+**Introduction to Flow Matching and Diffusion Models** //
 `Diffusion` [Link to Course](https://diffusion.csail.mit.edu) 
 This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields.
 
