@@ -24,6 +24,9 @@ Lecture videos for an intro course on Introduction to Computer Graphics at MIT.
 [Link to Course](https://youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&si=9U47liNYeFIvBF17)
 Lecture videos for an intro course on Discrete Differential Geometry at Carnegie Mellon University.
 
+**Interactive Computer Graphics - Cem Yuksel** `Computer Graphics` <br>
+[Link to Course](https://youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&si=G9aU6HxuxNpB1ROY) Recordings of live online lectures for the Interactive Computer Graphics course in Spring 2021, School of Computing, University of Utah.
+
 **Linear Algebra and Random Processes - Mitesh M. Khapra** `Linear Algebra` <br>
 [Link to Course](https://www.cse.iitm.ac.in/~miteshk/CS6015.html)
 Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT Madras.
@@ -31,5 +34,4 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 **The Essence of Linear Algebra - 3Blue1Brown** `Linear Algebra` <br>
 [Link to Course](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=fMUzQKh4MvYjdDl6) A playlist on understanding Linear Algebra geometrically.
 
-**Interactive Computer Graphics - Cem Yuksel** `Computer Graphics` <br>
-[Link to Course](https://youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&si=G9aU6HxuxNpB1ROY) Recordings of live online lectures for the Interactive Computer Graphics course in Spring 2021, School of Computing, University of Utah.
+
