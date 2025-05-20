@@ -30,3 +30,6 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 
 **The Essence of Linear Algebra - 3Blue1Brown** `Linear Algebra` <br>
 [Link to Course](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=fMUzQKh4MvYjdDl6) A playlist on understanding Linear Algebra geometrically.
+
+**Interactive Computer Graphics - Cem Yuksel** `Computer Graphics` <br>
+[Link to Course](https://youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&si=G9aU6HxuxNpB1ROY) Recordings of live online lectures for the Interactive Computer Graphics course in Spring 2021, School of Computing, University of Utah.
