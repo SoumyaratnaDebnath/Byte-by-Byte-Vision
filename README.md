@@ -86,7 +86,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   2. [AI But Simple](https://www.aibutsimple.com/)
   3. [Explained Visually](https://setosa.io/ev/)
   4. [ExplainingAI](https://youtube.com/@explaining-ai?si=ZJCs0AUEZQcFQn2t)
-  5. [Read Medium Articles Free](https://freedium.cfd/)
+  5. [AI Summer](https://theaisummer.com/)
   6. [Conference Deadlines](https://ccfddl.com/)
   7. [AutoGluon Quick Prototyping](https://auto.gluon.ai/stable/index.html)
   8. Conference Ranking : [ICore](https://portal.core.edu.au/conf-ranks/), [Resurchify](https://www.resurchify.com/conference-ranking)
