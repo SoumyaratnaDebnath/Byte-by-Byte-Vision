@@ -71,6 +71,8 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   3. [Understanding NeRFs](https://cameronrwolfe.substack.com/p/understanding-nerfs)
   4. [Coding Neural Radiance Fields](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS)
   5. [Nerf Code Explained](https://papers-100-lines.medium.com/neural-radiance-fields-nerf-tutorial-in-100-lines-of-pytorch-code-365ef2a1013)
+  6. [NeRF a Volume Rendering Prespective](https://yconquesty.github.io/blog/ml/nerf/nerf_rendering.html)
+  7. [NeRF: How NDC Works](https://yconquesty.github.io/blog/ml/nerf/nerf_ndc.html)
 
 ### 3D Gaussian Splatting
   1. [3D Gaussian Splatting - Explained!](https://youtu.be/sQcrZHvrEnU?si=txnlmdm60u7v1jVK)
