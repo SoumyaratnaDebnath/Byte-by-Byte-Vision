@@ -66,13 +66,11 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   7. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9) 
 
 ### Neural Radiance Field (NeRF)
-  1. [Neural Radiance Fields Paper Explained](https://youtu.be/CRlN-cYFxTk?si=4Bdm83jNngYfrkat)
-  2. [How NeRF and Instant Neural Graphics Primitives Work](https://theaisummer.com/nerf/)
-  3. [Understanding NeRFs](https://cameronrwolfe.substack.com/p/understanding-nerfs)
-  4. [Coding Neural Radiance Fields](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS)
-  5. [Nerf Code Explained](https://papers-100-lines.medium.com/neural-radiance-fields-nerf-tutorial-in-100-lines-of-pytorch-code-365ef2a1013)
-  6. [NeRF a Volume Rendering Prespective](https://yconquesty.github.io/blog/ml/nerf/nerf_rendering.html)
-  7. [NeRF: How NDC Works](https://yconquesty.github.io/blog/ml/nerf/nerf_ndc.html)
+  1. Neural Radiance Fields Paper Explained : [1](https://youtu.be/HfJpQCBTqZs?si=mqgFPRlmCrSwVX1t), [2](https://youtu.be/oKKeae_Sc-I?si=sel8y2-zf0wrhkvT), [3](https://youtu.be/WSfEfZ0ilw4?si=Nek9sUqZTDpHM5Uk), [4](https://youtu.be/CRlN-cYFxTk?si=4Bdm83jNngYfrkat)
+  2. [Understanding NeRFs] [1](https://theaisummer.com/nerf/), [2](https://cameronrwolfe.substack.com/p/understanding-nerfs)
+  3. [Coding Neural Radiance Fields] [1](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS), [2](https://papers-100-lines.medium.com/neural-radiance-fields-nerf-tutorial-in-100-lines-of-pytorch-code-365ef2a1013)
+  4. [NeRF a Volume Rendering Prespective](https://yconquesty.github.io/blog/ml/nerf/nerf_rendering.html)
+  5. [NeRF: How NDC Works](https://yconquesty.github.io/blog/ml/nerf/nerf_ndc.html)
 
 ### 3D Gaussian Splatting
   1. [3D Gaussian Splatting - Explained!](https://youtu.be/sQcrZHvrEnU?si=txnlmdm60u7v1jVK)
