@@ -67,8 +67,8 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 
 ### Neural Radiance Field (NeRF)
   1. Neural Radiance Fields Paper Explained : [Resource 1](https://youtu.be/HfJpQCBTqZs?si=mqgFPRlmCrSwVX1t), [Resource 2](https://youtu.be/oKKeae_Sc-I?si=sel8y2-zf0wrhkvT), [Resource 3](https://youtu.be/WSfEfZ0ilw4?si=Nek9sUqZTDpHM5Uk), [Resource 4](https://youtu.be/CRlN-cYFxTk?si=4Bdm83jNngYfrkat)
-  2. [Understanding NeRFs] [Resource 1](https://theaisummer.com/nerf/), [Resource 2](https://cameronrwolfe.substack.com/p/understanding-nerfs)
-  3. [Coding Neural Radiance Fields] [Resource 1](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS), [Resource 2](https://papers-100-lines.medium.com/neural-radiance-fields-nerf-tutorial-in-100-lines-of-pytorch-code-365ef2a1013)
+  2. Understanding NeRFs : [Resource 1](https://theaisummer.com/nerf/), [Resource 2](https://cameronrwolfe.substack.com/p/understanding-nerfs)
+  3. Coding Neural Radiance Fields : [Resource 1](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS), [Resource 2](https://papers-100-lines.medium.com/neural-radiance-fields-nerf-tutorial-in-100-lines-of-pytorch-code-365ef2a1013)
   4. [NeRF a Volume Rendering Prespective](https://yconquesty.github.io/blog/ml/nerf/nerf_rendering.html)
   5. [NeRF: How NDC Works](https://yconquesty.github.io/blog/ml/nerf/nerf_ndc.html)
 
