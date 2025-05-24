@@ -34,4 +34,5 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 **The Essence of Linear Algebra - 3Blue1Brown** `Linear Algebra` <br>
 [Link to Course](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=fMUzQKh4MvYjdDl6) A playlist on understanding Linear Algebra geometrically.
 
-
+**Positional Encoding: Zero to Hero** `Deep Learning` <br>
+[Link to Course](https://huggingface.co/blog/designing-positional-encoding) This post walks you through the step-by-step discovery of state-of-the-art positional encoding in transformer models. We will achieve this by iteratively improving our approach to encoding position, arriving at Rotary Postional Encoding (RoPE) used in the latest LLama 3.2 release and most modern transformers.
