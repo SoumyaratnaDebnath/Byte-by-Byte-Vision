@@ -36,3 +36,6 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 
 **Positional Encoding: Zero to Hero** `Deep Learning` <br>
 [Link to Course](https://huggingface.co/blog/designing-positional-encoding) This post walks you through the step-by-step discovery of state-of-the-art positional encoding in transformer models. We will achieve this by iteratively improving our approach to encoding position, arriving at Rotary Postional Encoding (RoPE) used in the latest LLama 3.2 release and most modern transformers.
+
+**Digital Signal & Image Processing Playlist** `Signal Processing` <br>
+[Link to Course](https://youtube.com/playlist?list=PLPIwNooIb9vjfb5tG52zBmSFTHXQR81zr&si=wfBqxd491C7VkzUb) One of the most fast fast forward crash course in Digital Signal and Image Processing. The creater directly jumps into the numerticals and explais everyting while solving them. Absolutely no theory, but good for brusing up concepts. 
