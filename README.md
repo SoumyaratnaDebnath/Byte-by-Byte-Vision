@@ -3,7 +3,7 @@
 Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated resources in deep learning and computer vision. Learn at your own pace with structured paths, whether you’re a beginner or refining your expertise. Dive in and explore the transformative world of CV!
 
 ### Generic
-  1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
+  1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42) and [Diffusion Models: DDPM | Generative AI Animated](https://youtu.be/EhndHhIvWWw?si=sBkzEp03px_Mhsd_)
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
   3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
   4. [DeepLearning - Mitesh Khapra](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU&si=A4XVBP1vMublbJkU)
