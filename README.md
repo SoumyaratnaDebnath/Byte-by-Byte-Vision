@@ -3,7 +3,7 @@
 Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated resources in deep learning and computer vision. Learn at your own pace with structured paths, whether you’re a beginner or refining your expertise. Dive in and explore the transformative world of CV!
 
 ### Generic
-  1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42) and [Diffusion Models: DDPM | Generative AI Animated](https://youtu.be/EhndHhIvWWw?si=sBkzEp03px_Mhsd_)
+  1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
   3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
   4. [DeepLearning - Mitesh Khapra](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU&si=A4XVBP1vMublbJkU)
@@ -58,12 +58,13 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
      
 ### Diffusion Models
   1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
-  2. [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU?si=kQlJ7AN0b8kOaiMG)
-  3. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=km-4R43Y_EmYX3hC)
-  4. [Diffusion Models - Live Coding Tutorial](https://youtu.be/S_il77Ttrmg?si=Fh3Z_m33s1oDtMv7)
-  5. [DDPM Explained](https://youtu.be/H45lF4sUgiE?si=zxuqNRH1LkJ1Xl93) and [implementation from scratch](https://youtu.be/vu6eKteJWew?si=o3x6HAsttKfQT2gs)
-  6. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
-  7. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9) 
+  2. [Diffusion Models: DDPM | Generative AI Animated](https://youtu.be/EhndHhIvWWw?si=sBkzEp03px_Mhsd_)
+  3. [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU?si=kQlJ7AN0b8kOaiMG)
+  4. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=km-4R43Y_EmYX3hC)
+  5. [Diffusion Models - Live Coding Tutorial](https://youtu.be/S_il77Ttrmg?si=Fh3Z_m33s1oDtMv7)
+  6. [DDPM Explained](https://youtu.be/H45lF4sUgiE?si=zxuqNRH1LkJ1Xl93) and [implementation from scratch](https://youtu.be/vu6eKteJWew?si=o3x6HAsttKfQT2gs)
+  7. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
+  8. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9) 
 
 ### Neural Radiance Field (NeRF)
   1. Neural Radiance Fields Paper Explained : [Resource 1](https://youtu.be/HfJpQCBTqZs?si=mqgFPRlmCrSwVX1t), [Resource 2](https://youtu.be/oKKeae_Sc-I?si=sel8y2-zf0wrhkvT), [Resource 3](https://youtu.be/WSfEfZ0ilw4?si=Nek9sUqZTDpHM5Uk), [Resource 4](https://youtu.be/CRlN-cYFxTk?si=4Bdm83jNngYfrkat)
