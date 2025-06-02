@@ -29,10 +29,10 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   4. Hooks in Pytorch (Helpful for gathering/visualizing gradients across layers and Attention editing in Diffusion Models)
      - [PyTorch Hooks](https://medium.com/analytics-vidhya/pytorch-hooks-5909c7636fb)
      - [PyTorch 101: Understanding Hooks](https://www.digitalocean.com/community/tutorials/pytorch-hooks-gradient-clipping-debugging)
-     - [PyTorch Hooks Explained — In-depth Tutorial](https://www.youtube.com/watch?v=syLFCVYua6Q&ab_channel=ElliotWaite)
+     - [PyTorch Hooks Explained — In depth tutorial](https://www.youtube.com/watch?v=syLFCVYua6Q&ab_channel=ElliotWaite)
      - [Understanding Pytorch hooks](https://www.kaggle.com/code/sironghuang/understanding-pytorch-hooks)
      - [How to Use PyTorch Hooks](https://medium.com/the-dl/how-to-use-pytorch-hooks-5041d777f904)
-     - [Intermediate Activations — the forward hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
+     - [Intermediate Activations — The forward hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
      - [How exactly the forward and backward hooks work in PyTorch](https://stackoverflow.com/questions/78279823/how-exactly-the-forward-and-backward-hooks-work-in-pytorch)
 
 ### Graph Neural Networks
