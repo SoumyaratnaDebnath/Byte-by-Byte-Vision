@@ -39,3 +39,8 @@ Course page for Linear Algebra and Random Processes by Mitesh M. Khapra at IIT M
 
 **Digital Signal & Image Processing Playlist** `Signal Processing` <br>
 [Link to Course](https://youtube.com/playlist?list=PLPIwNooIb9vjfb5tG52zBmSFTHXQR81zr&si=wfBqxd491C7VkzUb) One of the most fast fast forward crash course in Digital Signal and Image Processing. The creater directly jumps into the numerticals and explais everyting while solving them. Absolutely no theory, but good for brusing up concepts. 
+
+**3D Computer Vision Course** `3D Computer Vision`<br>
+[Link to Course](https://youtube.com/playlist?list=PLTBdjV_4f-EKTxkbejHedLAM62thMLZ9_&si=nadyejqXQ5AtRm9a) 3D Computer Vision Course by Prof. Daniel Cremers, Technical University of Munich.
+
+
