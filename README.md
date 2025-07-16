@@ -110,4 +110,5 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   4. [RNN, LSTM and GRU explained.](https://youtu.be/8HyCNIVRbSU?si=7R_XlVyq3nz1ZJIS)
   5. [YOLOv1 Explained](https://youtu.be/zgbPj4lSc58?si=7082Ct-RIg4Yoxfm)
   6. [KL Divergence](https://youtu.be/q0AkK8aYbLY?si=Wb7BJWFk6l5zW_67)
+  7. [Discrete Fourier Transform](https://youtube.com/playlist?list=PLs8w1Cdi-zvY_BI7Fe0nYETCVoVhptFaf&si=yQI1wFEZYLN_aFuL)
 
