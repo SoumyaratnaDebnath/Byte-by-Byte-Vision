@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Byte by Byte Vision</title>
+  <meta name="description" content="Curated learning resources for deep learning and computer vision.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true">
+    <div class="orb orb-a"></div>
+    <div class="orb orb-b"></div>
+    <div class="orb orb-c"></div>
+    <div class="mesh"></div>
+  </div>
+
+  <div class="app-shell">
+    <header class="hero">
+      <h1>Byte by Byte Vision</h1>
+      <p class="hero-copy">
+        Curated resources for machine learning, deep learning, and computer vision.
+        Start from Home and use the tabs to navigate courses, tools, notes, and books.
+      </p>
+    </header>
+
+    <nav class="tabs" role="tablist" aria-label="Repository sections">
+      <button id="tab-home" class="tab-button is-active" role="tab" aria-selected="true" aria-controls="panel-home" data-tab="home">Home</button>
+      <button id="tab-courses" class="tab-button" role="tab" aria-selected="false" aria-controls="panel-courses" data-tab="courses">Courses</button>
+      <button id="tab-tools" class="tab-button" role="tab" aria-selected="false" aria-controls="panel-tools" data-tab="tools">Tools</button>
+      <button id="tab-notes" class="tab-button" role="tab" aria-selected="false" aria-controls="panel-notes" data-tab="notes">Notes</button>
+      <button id="tab-books" class="tab-button" role="tab" aria-selected="false" aria-controls="panel-books" data-tab="books">Books</button>
+    </nav>
+
+    <main class="panel-frame">
+      <section id="panel-home" class="tab-panel is-active" role="tabpanel" aria-labelledby="tab-home">
+        <nav id="home-toc" class="home-toc" aria-label="On this page" hidden>
+          <p class="home-toc-title">On This Page</p>
+          <ul id="home-toc-list" class="home-toc-list"></ul>
+        </nav>
+        <div class="resource-toolbar home-toolbar">
+          <label for="home-search">Search home</label>
+          <input id="home-search" type="search" placeholder="Search sections, topics, or keywords" autocomplete="off">
+        </div>
+        <p id="home-search-status" class="search-status" aria-live="polite"></p>
+        <article id="home-content" class="markdown-render">
+          <p class="status">Loading Home…</p>
+        </article>
+      </section>
+
+      <section id="panel-courses" class="tab-panel" role="tabpanel" aria-labelledby="tab-courses" hidden>
+        <div class="resource-toolbar">
+          <label for="courses-search">Search courses</label>
+          <input id="courses-search" type="search" placeholder="Type course title, topic, or keyword" autocomplete="off">
+        </div>
+        <p id="courses-search-status" class="search-status" aria-live="polite"></p>
+        <article id="courses-content" class="markdown-render">
+          <p class="status">Loading COURCES…</p>
+        </article>
+      </section>
+
+      <section id="panel-tools" class="tab-panel" role="tabpanel" aria-labelledby="tab-tools" hidden>
+        <div class="resource-toolbar tools-toolbar">
+          <label for="tools-search">Search tools</label>
+          <input id="tools-search" type="search" placeholder="Type tool, purpose, or keyword" autocomplete="off">
+        </div>
+        <p id="tools-search-status" class="search-status" aria-live="polite"></p>
+        <article id="tools-content" class="markdown-render">
+          <p class="status">Loading TOOLS…</p>
+        </article>
+      </section>
+
+      <section id="panel-notes" class="tab-panel" role="tabpanel" aria-labelledby="tab-notes" hidden>
+        <div class="resource-toolbar">
+          <label for="notes-search">Filter notes</label>
+          <input id="notes-search" type="search" placeholder="Type a topic, filename, or folder" autocomplete="off">
+        </div>
+        <div id="notes-groups" class="resource-groups"></div>
+      </section>
+
+      <section id="panel-books" class="tab-panel" role="tabpanel" aria-labelledby="tab-books" hidden>
+        <div class="resource-toolbar">
+          <label for="books-search">Filter books</label>
+          <input id="books-search" type="search" placeholder="Type a title keyword" autocomplete="off">
+        </div>
+        <div id="books-grid" class="resource-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
