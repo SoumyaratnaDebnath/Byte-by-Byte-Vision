@@ -12,7 +12,7 @@ These are good first resources to build intuition before going deeper into math 
 8. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
 9. [10 Best Machine Learning Resources](https://www.linkedin.com/feed/update/urn:li:activity:7326817280930000896/?utm_source=share&utm_medium=member_android&rcm=ACoAADKJzyQBQvpll5NPgJu-XxE2J84WJ2sjjdc)
 
----
+
 
 ## Mathematical Foundations
 
@@ -31,7 +31,7 @@ Build these alongside the core ML material.
 1. [Vector Calculus — Michael Corra](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/blob/main/articles/Vector%20Calculus%20-%20Michael%20Corra.pdf)
 2. [Computer Science Maths Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:7217107189029646337?utm_source=share&utm_medium=member_desktop)
 
----
+
 
 ## Programming, PyTorch, and Experimentation Tools
 
@@ -53,7 +53,7 @@ After basic ML intuition, move into hands-on implementation.
    - [Intermediate Activations — The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
    - [How Exactly the Forward and Backward Hooks Work in PyTorch](https://stackoverflow.com/questions/78279823/how-exactly-the-forward-and-backward-hooks-work-in-pytorch)
 
----
+
 
 ## Core Deep Learning Building Blocks
 
@@ -69,7 +69,7 @@ These are important concepts that support later advanced topics.
 8. [Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=-KF1W3GffRv486oo)
 9. [Predictive Coding](https://youtu.be/l-OLgbdZ3kk?si=sAOxQBbEf9IGnaW6)
 
----
+
 
 ## Transformers and Vision Transformers
 
@@ -88,7 +88,7 @@ A natural next step after basic deep learning.
 3. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
 4. Related code: [Vision Transformer From Scratch](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/vision-trasnformer-from-scratch)
 
----
+
 
 ## Generative Modeling
 
@@ -129,7 +129,7 @@ Best explored after basic neural networks, PyTorch, and transformers.
 8. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
 9. [Coding Stable Diffusion From Scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9)
 
----
+
 
 ## Graph Neural Networks
 
@@ -139,7 +139,7 @@ A focused advanced topic.
 2. [Graph Convolutional Networks Using Only NumPy](https://youtu.be/8qTnNXdkF1Q?si=o_z2rY6pjOVw6xwZ)
 3. Related code: [Graph Convolution Networks From Scratch](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/graph-convolution-networks-from-scratch)
 
----
+
 
 ## 3D Vision and Graphics
 
@@ -168,7 +168,7 @@ Useful for computer vision, rendering, and scene understanding.
 2. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
 3. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
 
----
+
 
 ## Quantum Computing
 
@@ -177,7 +177,7 @@ Separate from the main ML flow, but useful as an additional area of interest.
 1. [Quantum Computing for the Quantum Curious — Ciaran Hughes](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/blob/main/articles/Quantum%20Computing%20for%20the%20Quantum%20Curious.pdf)
 2. [The Map of Quantum Computing](https://youtu.be/-UlxHPIEVqA?si=6_qtG12HFv22rjBe)
 
----
+
 
 ## Visual Explanations and Intuition Builders
 
@@ -189,7 +189,7 @@ Useful throughout the journey.
 4. [AI Summer](https://theaisummer.com/)
 5. [Tom Yeh | AI by Hand](https://x.com/ProfTomYeh)
 
----
+
 
 ## Research, Career, and Staying Updated
 
@@ -216,7 +216,7 @@ Helpful once you start reading papers and doing projects.
 ### Prompt Engineering
 1. [Introduction to Prompt Engineering — OpenAI](https://academy.openai.com/home/videos/introduction-to-prompt-engineering-2025-02-13)
 
----
+
 
 ## Personal Repository Links
 
@@ -228,4 +228,4 @@ Helpful once you start reading papers and doing projects.
 5. [Variational Autoencoder From Scratch](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/variational-autoencoder-from-scratch)
 6. [Graduate Fellowships](https://github.com/SoumyaratnaDebnath/Graduate-Fellowships)
 
----
+
