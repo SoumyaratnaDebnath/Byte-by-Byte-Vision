@@ -102,6 +102,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   7. [AutoGluon Quick Prototyping](https://auto.gluon.ai/stable/index.html)
   8. Conference Ranking : [ICore](https://portal.core.edu.au/conf-ranks/), [Resurchify](https://www.resurchify.com/conference-ranking)
   9. Guide to PhD : [Resource 1](https://karpathy.github.io/2016/09/07/phd/), [Resource 2](https://krrish94.github.io/blog/)
+  10. List of Fellowships for Graduate Students: [Resource](https://github.com/SoumyaratnaDebnath/Graduate-Fellowships)
       
 ### Targeted Topics
   1. Understand Convolution : [Better Explined](https://betterexplained.com/articles/intuitive-convolution/), [Mathworks](https://in.mathworks.com/discovery/convolution.html)
